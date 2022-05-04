@@ -12,3 +12,9 @@ class srtmDownloader(object):
         file = urllib.request.urlretrieve(url, "file.hgt.zip")
         zipfile.ZipFile('file.hgt.zip').extractall()
         
+
+#%%
+
+#%%
+
+#%%

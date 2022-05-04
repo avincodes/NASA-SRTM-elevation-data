@@ -23,3 +23,5 @@ class srtmChoose(object):
         else:
             unitscale = 1
         return unitscale
+
+#%%

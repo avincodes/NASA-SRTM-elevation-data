@@ -16,3 +16,5 @@ class srtmWriter(object):
         csvfilename = input("What would you like to name your CSV file?")
         np.savetxt(csvfilename + ".csv", csvtarget, delimiter=",")
         return 'File is saved.'
+
+#%%
